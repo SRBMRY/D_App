@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/static/css/main.03fecef7.css",
+    "main.js": "/static/js/main.b7c1aa26.js",
+    "static/js/787.c4e7f8f9.chunk.js": "/static/js/787.c4e7f8f9.chunk.js",
+    "static/media/binding-dark-1920x1080.png": "/static/media/binding-dark-1920x1080.36c06a365305ed2a24c3.png",
+    "static/media/wp2528745-clinic-wallpapers.jpg": "/static/media/wp2528745-clinic-wallpapers.b9feb3af917add96f958.jpg",
+    "index.html": "/index.html",
+    "main.03fecef7.css.map": "/static/css/main.03fecef7.css.map",
+    "main.b7c1aa26.js.map": "/static/js/main.b7c1aa26.js.map",
+    "787.c4e7f8f9.chunk.js.map": "/static/js/787.c4e7f8f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.03fecef7.css",
+    "static/js/main.b7c1aa26.js"
+  ]
+}
